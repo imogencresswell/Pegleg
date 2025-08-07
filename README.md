@@ -7,7 +7,7 @@
 ### Steps:
 1. [ ] **1.** Get Bluejay mosaics and psfs from Vanessa 
 
-2. [ ] **2.** Download imcascade  
+2. [x] **2.** Download imcascade  
 
 3. [ ] **3.** In collaboration with Vanessa, get imcascade running and validate fits on Vanessa’s same objects  
    - [ ] **i.**   Masks mask correct objects 
